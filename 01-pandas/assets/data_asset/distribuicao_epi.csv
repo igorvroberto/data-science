@@ -1,14 +1,14 @@
 Material;"Dt,Saída";Nº Pedido;Requisitante / Destino;Unidade;Quantidade;Status
-;;;;;;
-Álcool;;308748;Acre;Litro;42;Entregue
-;;;;;;
-Álcool;19/03/2020;;Acre;Litro;12;Entregue
-Álcool;;309483;Acre;Litro;48;Entregue
-Álcool;28/03/2020;309979;Acre;;"19,2";Entregue
-Álcool;28/03/2020;309979;Acre;Litro;;Entregue
-Álcool;31/03/2020;310553;Acre;Litro;132;
-Álcool;10/04/2020;311433;;Litro;"12,6";Entregue
-Álcool;;311873;Acre;Litro;5;Entregue
+NaN;NaN;NaN;NaN;NaN;NaN;NaN
+Álcool;NaN;308748;Acre;Litro;42;Entregue
+NaN;NaN;NaN;NaN;NaN;NaN;
+Álcool;19/03/2020;NaN;Acre;Litro;12;Entregue
+Álcool;NaN;309483;Acre;Litro;48;Entregue
+Álcool;28/03/2020;309979;Acre;NaN;"19,2";Entregue
+Álcool;28/03/2020;309979;Acre;Litro;NaN;Entregue
+Álcool;31/03/2020;310553;Acre;Litro;132;NaN
+Álcool;10/04/2020;311433;NaN;Litro;"12,6";Entregue
+Álcool;NaN;311873;Acre;Litro;5;Entregue
 Álcool;15/04/2020;311873;Acre;Litro;4;Entregue
 Álcool;15/04/2020;311873;Acre;Litro;"153,5";Entregue
 Álcool;23/04/2020;312962;Acre;Litro;798;Entregue
